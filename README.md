@@ -1,6 +1,4 @@
-A small subset of the work I've completed over the years...
-===============
-### Links: 
+
 **site:** https://zachhappel.com
 
 **linkedin:** https://www.linkedin.com/in/zacharie-happel/
